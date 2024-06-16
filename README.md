@@ -54,6 +54,10 @@ The block diagram below represents the complete working of the project:
 
 ![Block Diagram](https://github.com/Dhanush-b/Efficient-Inventory-Control-Through-RFID-Technology/assets/83268895/ee8b3b75-04ce-4b61-93ae-e9a562f95667)
 
+Circuit Diagram oF Motor
+
+![Circuit Diagram](https://github.com/Dhanush-b/Efficient-Inventory-Control-Through-RFID-Technology/assets/83268895/d4807123-a6ff-49b0-be68-f04efa8ab724)
+
 
 ## Results
 

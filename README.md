@@ -64,13 +64,15 @@ Circuit Diagram oF Motor
 | Arduino Nano     | Microcontroller | 1      |
 | Raspberry Pi 4 Model-B | Micrpredecessor  | 1      |
 | USB to RS232 converter cable         | TTL converter | 1      |
-| Relay Module     | 1 Channel Relay | 1      |
-| Buzzer           | 5V Buzzer     | 1      |
-| NRF24L01         | RF Module     | 1      |
-| Lithium Ion Battery | Battery   | 1      |
-| Eye Blink Sensor | Eye blink detection | 1  |
-| IR Sensor        | Infrared Sensor | 1      |
-| PCB Board        | Printed Circuit Board | 1|
+| Touch Screen LCD    | Display | 1      |
+| Planetary Gear DC Motor           | 12 Motor     | 2      |
+|  Motor Driver         | SmartElex Smart Motor Driver 15D     | 1      |
+| Lithium Ion Battery | 3s Battery   | 1      |
+| Buck-Boost Converter | 12v to 5v | 1  |
+| IR Sensor        | Infrared Sensor | 5      |
+|  USB Camera        | QR Reader | 1|
+|  CF6A1           | UHF RFID Reader  | 1 |
+
 
 ## Results
 

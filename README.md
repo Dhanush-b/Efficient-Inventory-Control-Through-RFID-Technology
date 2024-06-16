@@ -58,10 +58,27 @@ Circuit Diagram oF Motor
 
 ![Circuit Diagram](https://github.com/Dhanush-b/Efficient-Inventory-Control-Through-RFID-Technology/assets/83268895/d4807123-a6ff-49b0-be68-f04efa8ab724)
 
+## Bill of Materials
+| Component Name   | Description  | Quantity |
+|------------------|--------------|----------|
+| Arduino Nano     | Microcontroller | 1      |
+| Raspberry Pi 4 Model-B | Micrpredecessor  | 1      |
+| USB to RS232 converter cable         | TTL converter | 1      |
+| Relay Module     | 1 Channel Relay | 1      |
+| Buzzer           | 5V Buzzer     | 1      |
+| NRF24L01         | RF Module     | 1      |
+| Lithium Ion Battery | Battery   | 1      |
+| Eye Blink Sensor | Eye blink detection | 1  |
+| IR Sensor        | Infrared Sensor | 1      |
+| PCB Board        | Printed Circuit Board | 1|
 
 ## Results
 
+![Results](https://github.com/Dhanush-b/Efficient-Inventory-Control-Through-RFID-Technology/assets/83268895/615f129c-c69d-4660-8c75-e9b763cd3990)
+
+
 The autonomous robot successfully navigates indoor spaces, conducts inventory checks, and transmits data to Google Spreadsheets. The GUI on the 5-inch LCD display facilitates user control and monitoring.
+
 
 ## Conclusion
 

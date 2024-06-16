@@ -50,6 +50,13 @@ The system includes the following components:
 - **12V Battery:** Supplies voltage to the RFID reader and motor driver.
 - **Buck-Boost Converter:** Steps down 12V to 5V for Raspberry Pi and Arduino Nano.
 
+![image](https://github.com/Dhanush-b/Efficient-Inventory-Control-Through-RFID-Technology/assets/83268895/0f86cc42-0db9-4fbd-9916-c7e6412863ee)
+
+
+
+![image](https://github.com/Dhanush-b/Efficient-Inventory-Control-Through-RFID-Technology/assets/83268895/787463c0-30f4-4642-892d-4a2f07b00d71)
+
+
 The block diagram below represents the complete working of the project:
 
 ![Block Diagram](https://github.com/Dhanush-b/Efficient-Inventory-Control-Through-RFID-Technology/assets/83268895/ee8b3b75-04ce-4b61-93ae-e9a562f95667)

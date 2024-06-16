@@ -52,7 +52,7 @@ The system includes the following components:
 
 The block diagram below represents the complete working of the project:
 
-![Block Diagram]([path/to/block-diagram.png](https://github.com/Dhanush-b/Efficient-Inventory-Control-Through-RFID-Technology/assets/83268895/ee8b3b75-04ce-4b61-93ae-e9a562f95667))
+![Block Diagram](https://github.com/Dhanush-b/Efficient-Inventory-Control-Through-RFID-Technology/assets/83268895/ee8b3b75-04ce-4b61-93ae-e9a562f95667)
 
 
 ## Results

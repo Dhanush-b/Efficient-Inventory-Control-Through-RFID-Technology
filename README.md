@@ -12,8 +12,7 @@ This project explores the integration of Ultra-High-Frequency (UHF) Radio Freque
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Future Scope](#future-scope)
-- [Acknowledgements](#acknowledgements)
-- [Authors](#authors)
+
 
 ## Introduction
 

@@ -1,0 +1,41 @@
+<GUI>:
+    canvas.before:
+        Color:
+            rgba: 0, 0, 0, 0.5  # Background color (dark gray)
+        Rectangle:
+            size: self.size
+            pos: self.pos
+
+    orientation: 'vertical'
+    padding: 10, 100, 10, 100
+
+    Label:
+        text: "RFID Tag Reading: " + app.rfid_id
+        font_size: 23
+        size_hint_y: None
+        height: '480dp'
+        color: 1, 1, 0, 1  # Text color (white)
+    
+    BoxLayout:
+        size_hint_y: None
+        height: '40dp'
+        spacing: 20
+
+        Button:
+            id: toggle_button
+            text: "Pause"
+            font_size: 20
+            size_hint_x: None
+            width: '200dp'
+            background_color: 1, 0, 0, 1  # Button background color (light blue)
+            color: 1, 1, 1, 1  # Text color (white)
+            on_press: app.toggle_reader()
+         
+        Button:
+            text: "Upload"
+            size_hint_x: None
+            font_size: 20
+            width: '200dp'
+            background_color: 0, 0.9, 0, 1  # Button background color (light blue)
+            color: 1, 1, 1, 1  # Text color (white)
+            on_press: app.update_data()
